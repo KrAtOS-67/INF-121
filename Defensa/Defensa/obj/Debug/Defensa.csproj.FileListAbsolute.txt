@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\INF_121\Defensa\Defensa\bin\Debug\Defensa.exe
+C:\Users\User\Desktop\INF_121\Defensa\Defensa\bin\Debug\Defensa.pdb
+C:\Users\User\Desktop\INF_121\Defensa\Defensa\obj\Debug\Defensa.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\INF_121\Defensa\Defensa\obj\Debug\Defensa.exe
+C:\Users\User\Desktop\INF_121\Defensa\Defensa\obj\Debug\Defensa.pdb
